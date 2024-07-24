@@ -1,0 +1,293 @@
+#form{
+    border: solid 1px;
+    margin: 0 auto;
+    background-color: white;
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 15%;
+    margin-top: 5%
+}
+.input{
+    padding: 8px 12px;
+    border-radius: 5px;
+    border:solid 1px;
+    width: 40%;
+}
+button{
+    padding: 6px 12px;
+    border:none;
+    background-color: rgb(26, 26, 126);
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 3%;
+}
+label{
+    margin-right: 15%;
+}
+.signup{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(19, 128, 152);
+}
+h1{
+    color: white;
+
+}
+body{
+    background-color: rgb(19, 128, 152);
+ 
+}
+
+@media screen and (min-width:280px) and (max-width:400px) {
+    #form{
+        border: solid 1px;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 20px;
+        margin-top: 5%;
+        width: 90%;
+        
+    }
+    .input{
+        padding: 14px 12px;
+        border-radius: 5px;
+        border:solid 1px;
+        width: 60%;
+    }
+    button{
+        padding: 6px 12px;
+        border:none;
+        background-color: rgb(26, 26, 126);
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3%;
+    }
+    img{
+        margin-right: 3%;
+        width: 300px;
+        height: 300px;
+    }
+ 
+    .signup{
+        display: flex;
+        flex-direction: column;
+    }
+    h1{
+        color: white;
+        font-size: 20px;
+    
+    }
+  
+}
+@media screen and (min-width:401px) and (max-width:600px) {
+    #form{
+        border: solid 1px;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 20px;
+        margin-top: 5%;
+        width: 90%;
+        
+    }
+    .input{
+        padding: 14px 12px;
+        border-radius: 5px;
+        border:solid 1px;
+        width: 60%;
+    }
+    button{
+        padding: 6px 12px;
+        border:none;
+        background-color: rgb(26, 26, 126);
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3%;
+    }
+    img{
+        margin-right: 3%;
+        width: 300px;
+        height: 300px;
+    }
+ 
+    .signup{
+        display: flex;
+        flex-direction: column;
+    }
+    h1{
+        color: white;
+        font-size: 20px;
+    
+    }
+  
+
+}
+@media screen and (min-width:601px) and (max-width:920px) {
+    #form{
+        border: solid 1px;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 20px;
+        margin-top: 5%;
+        width: 90%;
+        
+    }
+    .input{
+        padding: 14px 12px;
+        border-radius: 5px;
+        border:solid 1px;
+        width: 60%;
+    }
+    button{
+        padding: 6px 12px;
+        border:none;
+        background-color: rgb(26, 26, 126);
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3%;
+    }
+    img{
+        margin-right: 3%;
+        width: 300px;
+        height: 300px;
+    }
+ 
+    .signup{
+        display: flex;
+        flex-direction: column;
+    }
+    h1{
+        color: white;
+        font-size: 20px;
+    
+    }
+
+
+}
+@media screen and (width:1280px) {
+    #form{
+        border: solid 1px;
+        margin: 0 auto;
+        background-color: white;
+        width: 50%;
+        border-radius: 20px;
+        margin-left: 10%;
+        margin-top: 5%
+    }
+    .input{
+        padding: 14px 12px;
+        border-radius: 5px;
+        border:solid 1px;
+        width: 40%;
+    }
+    button{
+        padding: 6px 12px;
+        border:none;
+        background-color: rgb(26, 26, 126);
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3%;
+    }
+    label{
+        margin-right: 15%;
+    }
+    .signup{
+        display: flex;
+        flex-direction: row;
+        background-color: rgb(19, 128, 152);
+        margin-top: 3%;
+    }
+    h1{
+        color: white;
+    
+    }
+    body{
+        background-color: rgb(19, 128, 152);
+     
+    } 
+}
+@media screen and (width:1024px) {
+    #form{
+        border: solid 1px;
+        margin: 0 auto;
+        background-color: white;
+        width: 45%;
+        border-radius: 20px;
+        margin-left: 5%;
+        margin-top: 5%
+    }
+    .input{
+        padding: 14px 12px;
+        border-radius: 5px;
+        border:solid 1px;
+        width: 40%;
+    }
+    button{
+        padding: 6px 12px;
+        border:none;
+        background-color: rgb(26, 26, 126);
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3%;
+    }
+    label{
+        margin-right: 15%;
+    }
+    .signup{
+        display: flex;
+        flex-direction: row;
+        background-color: rgb(19, 128, 152);
+        margin-bottom: 4%;
+    }
+    h1{
+        color: white;
+    
+    }
+    body{
+        background-color: rgb(19, 128, 152);
+     
+    } 
+}
+@media screen and (width:280px) {
+    #form{
+        border: solid 1px;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 20px;
+        margin-top: 5%;
+        width: 95%;
+        margin-left: 7%;
+        
+    }
+    .input{
+        padding: 14px 12px;
+        border-radius: 5px;
+        border:solid 1px;
+        width: 60%;
+    }
+    button{
+        padding: 6px 12px;
+        border:none;
+        background-color: rgb(26, 26, 126);
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3%;
+    }
+    img{
+        margin-right: 3%;
+        width: 300px;
+        height: 300px;
+    }
+ 
+    .signup{
+        display: flex;
+        flex-direction: column;
+    }
+    h1{
+        color: white;
+        font-size: 20px;
+    
+    }
+
+}
+
+
